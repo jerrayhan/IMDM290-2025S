@@ -1,8 +1,15 @@
-![heart](https://github.com/user-attachments/assets/f0c91918-60bf-4130-a0e5-c473b6071378)
+Hello!!
+
+From Jeremy: 
+
+I wanted this project to consist of two hearts with differing color modes / primitive types. I wanted to use this approach because it would be easier to integrate within the existing codepack that was provided. I'm new to Unity, so I mostly made alterations within the code regarding float values, conditional statements to decide a color, and playing with the math expressions and functions.
+
+![Screenshot 2025-02-12 at 5 04 15 PM](https://github.com/user-attachments/assets/381affd2-4772-4bf8-937e-defa353f9d74)
+
+
+![Screenshot 2025-02-12 at 5 04 42 PM](https://github.com/user-attachments/assets/8e344299-2446-4b0c-a01f-c43917d2de65)
+
 
 IMDM 290 
 
 2025 Spring
-
-Course Material 
-![Untitled video - Made with Clipchamp (8)](https://github.com/user-attachments/assets/f862236a-a226-4e8f-8bfd-47c7161032da)
