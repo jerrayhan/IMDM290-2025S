@@ -403,7 +403,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 432427193}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e34ec67ee9f7d2848833ea3e1ff74b88, type: 3}
+  m_Script: {fileID: 11500000, guid: b20e7a0c4c0494616ad5bac6d3871d83, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!4 &432427195
@@ -885,7 +885,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1117330981
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -895,7 +895,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1117330980}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5c0f06716f8204d468fc40d49aa84354, type: 3}
+  m_Script: {fileID: 11500000, guid: aea11ebb2c1e544a49a4be63f22e8b86, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!4 &1117330982
@@ -923,13 +923,14 @@ GameObject:
   m_Component:
   - component: {fileID: 1465762393}
   - component: {fileID: 1465762394}
+  - component: {fileID: 1465762395}
   m_Layer: 0
   m_Name: 03_Heart
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1465762393
 Transform:
   m_ObjectHideFlags: 0
@@ -954,7 +955,19 @@ MonoBehaviour:
   m_GameObject: {fileID: 1465762391}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e2a66e4aa276ed24f8cb2c85732973d9, type: 3}
+  m_Script: {fileID: 11500000, guid: 9b5a91cbc57a34ceb8220993e86a5b60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1465762395
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1465762391}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cebbf3fafd3e548d3a5f1ddf8ac24c2c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1670741470
